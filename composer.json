@@ -1,0 +1,12 @@
+{
+  "name": "joshic/328/chicken",
+  "authors": [
+    {
+      "name": "Joshua Kristiansen",
+      "email": "jkristiansen@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
